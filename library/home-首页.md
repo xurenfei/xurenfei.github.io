@@ -1,13 +1,9 @@
 # 关于我 | About Me
 
-嗨，欢迎访问我的页面。
+嗨，欢迎访问我的页面，我将在这片小小的园地中和您分享我的思考与成果。如果您任何问题，或者想要联系到我，可以向以下地址发送邮件：
 
-## 联系我
-
-如果您想要联系到我，可以向以下地址发送邮件：
-
-- 国际邮箱：`xurenfeicn@outlook.com`
-- 国内邮箱：`xurenfeicn@163.com`
+- 国际邮箱：[xurenfeicn@outlook.com](xurenfeicn@outlook.com)
+- 国内邮箱：[xurenfeicn@163.com](xurenfeicn@163.com)
 
 或者您可以在**微信**上添加我（为避免骚扰，加好友请留言“来自 GitHUb”）：
 
